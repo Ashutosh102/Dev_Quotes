@@ -1,0 +1,24 @@
+body{
+	font-family: 'Acme', sans-serif;
+	background:#34495e;
+	color:#fff;
+}
+.title{
+	padding-top:40px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.quoteArea{
+	padding:40px;
+	font-size: 30px;
+	border:5px solid #fff;
+	margin-bottom: 30px;
+	color: #fff;
+}
+.fa-heart{
+    color:#ff1237;
+}
+.creator, .creator a{
+    text-align: center;
+	padding-top: 20px; 
+}
